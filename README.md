@@ -24,8 +24,7 @@
 
 ## 🧠 Projects in Progress
 
-- **Conversational AI assistant**: focused on natural interaction and automated support. Currently working with NLP and API integration.
-- **Authentication system**: secure user authenticator with strict validation of fields like email, age, and name — designed with a focus on user experience and security.
+-  **GestorCloud**: A complete CRM system tailored for small businesses, featuring a modern web interface. It allows client registration, sales tracking, business reporting, and administrative customization. Built with Python, FastAPI, SQLite, HTML/CSS, and Jinja2. Currently working on user authentication, interactive reports, and dashboard enhancements.
 
 ---
 
